@@ -1,7 +1,7 @@
 
 ## Descrição
 
-API com usuários e produtos usando [NestJS](https://github.com/nestjs/nest) | [TypeORM](https://typeorm.io) e [Docker](https://www.docker.com) .
+API com usuários e produtos usando [NestJS](https://github.com/nestjs/nest) | [TypeORM](https://typeorm.io) | [Docker](https://www.docker.com) .
 
 ## Instalação
 
